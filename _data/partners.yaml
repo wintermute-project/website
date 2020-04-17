@@ -1,0 +1,36 @@
+- name: genua GmbH, Kirchheim bei München
+  url: https://www.genua.de
+  logo: /assets/img/genua-logo.jpg
+  logo-alt: Logo der genua GmbH
+
+- name: IsarNet AG
+  url: https://www.isarnet.de
+  logo: /assets/img/isarnet-logo.png
+  logo-alt: Logo der IsarNet AG
+
+- name: acs plus GmbH
+  url: https://www.acs-plus.de
+  logo: /assets/img/acsplus-logo.svg
+  logo-alt: Logo der acs plus GmbH
+
+- name: Lehrstuhl Privatsphäre und Sicherheit in Informationssystemen (Universität Bamberg)
+  url: https://www.uni-bamberg.de/informatik/psi/
+  logo: /assets/img/uba-logo.png
+  logo-alt: Logo der Universität Bamberg
+
+- name: Lehrstuhl für Human-Computer Interaction (Universität Bremen)
+  url: https://hci.uni-bremen.de/
+  logo: /assets/img/ubr-logo.png
+  logo-alt: Logo der Universität Bremen
+
+- name: Lehrstuhl für Kommunikationsnetze (Universität Würzburg)
+  url: http://www.comnet.informatik.uni-wuerzburg.de
+  logo: /assets/img/jmu-logo.png
+  logo-alt: Logo der Universität Würzburg
+
+- name: BSI - Bundesamt für Sicherheits in der Informationstechnik
+  url: https://www.bsi.bund.de
+  logo: /assets/img/bsi-logo.png
+  logo-alt: Logo des Bundesamt für Sicherheits in der Informationstechnik
+
+
