@@ -10,7 +10,7 @@ nav_display: 1
 
 {% for post in site.posts %}
     <div class="post">
-        <div class="post-img" style="float:left; max-width: 150px;">
+        <div class="post-img" style="float:left;">
             <a href="{{ post.url }}"><img src="{{ post.img }}" alt="{{ post.img-alt }}"/></a>
         </div>
         <div class="post-text" style="float:left">

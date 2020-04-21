@@ -26,7 +26,7 @@
 
 .site-claim {
     display: block;
-    max-width: 415px;
+    max-width: 350px;
     font-size: 15px;
 }
 
@@ -44,7 +44,7 @@
 
         // Gaps between nav items, but not on the first one
         &:not(:first-child) {
-            margin-left: 20px;
+            margin-left: 12px;
         }
     }
 

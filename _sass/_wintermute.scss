@@ -23,3 +23,9 @@ ul.partners {
     text-align: right;
     font-size: $small-font-size;
 }
+
+.post-img img {
+     max-height: 120px;
+     max-width: 120px;
+    margin-right: 20px;
+}
