@@ -5,7 +5,7 @@
 
 - name: IsarNet AG
   url: https://www.isarnet.de
-  logo: /assets/img/isarnet-logo.png
+  logo: /assets/img/isarnet-logo.svg
   logo-alt: Logo der IsarNet AG
 
 - name: acs plus GmbH
@@ -15,7 +15,7 @@
 
 - name: Lehrstuhl Privatsphäre und Sicherheit in Informationssystemen (Universität Bamberg)
   url: https://www.uni-bamberg.de/informatik/psi/
-  logo: /assets/img/uba-logo.png
+  logo: /assets/img/uba-logo.svg
   logo-alt: Logo der Universität Bamberg
 
 - name: Lehrstuhl für Human-Computer Interaction (Universität Bremen)

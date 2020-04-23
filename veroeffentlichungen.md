@@ -3,7 +3,7 @@ layout: page
 title: Veröffentlichungen
 permalink: /veroeffentlichungen/
 nav_order: 20
-nav_display: 1
+nav_display: 0
 ---
 
 <ul class="publications">
