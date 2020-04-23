@@ -24,7 +24,7 @@ The following is only required if one wants to parse the site locally (the follo
 
 Install ruby:
 
-sudo apt-get install ruby-full build-essential zlib1g-dev
+    sudo apt-get install ruby-full build-essential zlib1g-dev
 
 Set path:
 
@@ -35,7 +35,7 @@ Set path:
 
 Install Jekyll:
 
-    # Note: does not work for me, despite GEM_HOME= it still tries to install in
+    # Note: does not work for me, despite GEM_HOME it still tries to install in
     # /var/lib/gems/ on Ubuntu 18.04 and thus complains with permissions denied
     gem install jekyll bundler
 
