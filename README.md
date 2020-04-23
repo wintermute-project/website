@@ -8,7 +8,7 @@ The folowing guidelines should be sufficient to edit the content of the page. Th
 
 ## Pages
 
-All pages are located in the root directory as *<title>.md*. New pages can be added by copy/paste from an existing page. Please note that the permalink front matter has to be unique.
+All pages are located in the root directory as `<title>.md`. New pages can be added by copy/paste from an existing page. Please note that the permalink front matter has to be unique.
 
 ## Partners and Publications
 
@@ -27,18 +27,21 @@ Install ruby:
 sudo apt-get install ruby-full build-essential zlib1g-dev
 
 Set path:
-echo '# Install Ruby Gems to ~/gems' >> ~/.bashrc
-echo 'export GEM_HOME="$HOME/gems"' >> ~/.bashrc
-echo 'export PATH="$HOME/gems/bin:$PATH"' >> ~/.bashrc
-source ~/.bashrc
 
-Insatll Jekyll:
+    echo '# Install Ruby Gems to ~/gems' >> ~/.bashrc
+    echo 'export GEM_HOME="$HOME/gems"' >> ~/.bashrc
+    echo 'export PATH="$HOME/gems/bin:$PATH"' >> ~/.bashrc
+    source ~/.bashrc
 
-gem install jekyll bundler
+Install Jekyll:
+
+    # Note: does not work for me, despite GEM_HOME= it still tries to install in
+    # /var/lib/gems/ on Ubuntu 18.04 and thus complains with permissions denied
+    gem install jekyll bundler
 
 Parse the site and create a local server:
 
-jekyll serve
+    jekyll serve
 
 View the site:
 
