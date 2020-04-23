@@ -19,7 +19,7 @@
   logo-alt: Logo der Universität Bamberg
 
 - name: Lehrstuhl für Human-Computer Interaction (Universität Bremen)
-  url: https://hci.uni-bremen.de/
+  url: https://hci.uni-bremen.de
   logo: /assets/img/ubr-logo.png
   logo-alt: Logo der Universität Bremen
 
@@ -32,5 +32,15 @@
   url: https://www.bsi.bund.de
   logo: /assets/img/bsi-logo.png
   logo-alt: Logo des Bundesamt für Sicherheits in der Informationstechnik
+
+- name: XITASO GmbH
+  url: https://xitaso.com
+  logo: /assets/img/xitaso-logo.svg
+  logo-alt: Logo der XITASO GmbH
+
+- name: RENK AG
+  url: https://www.renk-ag.com
+  logo: /assets/img/renk-logo.png
+  logo-alt: Logo der RENK AG
 
 
