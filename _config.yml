@@ -21,7 +21,7 @@ title: Wintermute
 email: info@projekt-wintermute.de
 description: >- 
  KI-gestützte Lagebeurteilung, Policy-Definition und Durchsetzung von Sicherheit in komplexen Netzen.
-baseurl: "/website"
+baseurl: ""
 url: "https://www.projekt-wintermute.de"
 
 # Build settings
