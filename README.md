@@ -43,6 +43,12 @@ Parse the site and create a local server:
 
     jekyll serve
 
+
+Install and Serve - on Mint 19.3/bionic
+    
+    bundle install
+    bundle exec jekyll serve
+
 View the site:
 
 http://127.0.0.1:4000/
