@@ -4,7 +4,7 @@ title:  "Projekt »Wintermute« gestartet!"
 date:   2020-04-01 00:00:00
 categories: projekt
 img-alt: Wintermute Logo
-img: /assets/img/wintermute-logo.png
+img: /assets/img/wm_multicolor_400.png
 permalink: /blog/:categories/:title:output_ext
 ---
 
