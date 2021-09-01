@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Beitrag bei 1st International Workshop on Machine Learning in Networking (MaLeNe).
-date:   2020-09-01 00:00:00
+date:   2021-09-01 00:00:00
 categories: projekt
 img-alt: Wintermute Logo
 img: /assets/img/wm_multicolor_400.png
