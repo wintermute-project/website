@@ -1,9 +1,9 @@
 - authors: Nicholas Gray, Katharina Dietz, Michael Seufert, Tobias Hoßfeld
-  title: High Performance Network Metadata Extraction Using P4 for ML-Based Intrusion Detection Systems
+  title: "High Performance Network Metadata Extraction Using P4 for ML-Based Intrusion Detection Systems"
   conf: International Conference on High Performance Switching and Routing (HPSR)
   year: 2021
 
 - authors: Katharina Dietz, Michael Mühlhauser, Michael Seufert, Nicholas Gray, Tobias Hoßfeld, Dominik Herrmann
-  title: Browser Fingerprinting: How to Protect Machine Learning Models and Data with Differential Privacy?
+  title: "Browser Fingerprinting: How to Protect Machine Learning Models and Data with Differential Privacy?"
   conf: International Workshop on Machine Learning in Networking (MaLeNe)
   year: 2021
