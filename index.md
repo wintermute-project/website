@@ -14,3 +14,6 @@ Durch die zunehmende Digitalisierung der Industrie und die ansteigende Dynamik u
 WINTERMUTE hingegen setzt KI-Methoden ein, die das Systemverhalten klassifizieren und den Administratoren Rückmeldung über Auffälligkeiten geben sollen. Neben der KI-gestützen Lagebeurteilung soll es auch möglich sein, Feedback von Nutzern einzuarbeiten, um die entstehenden Regeln individuell auf Bedürfnisse anzupassen. Zusätzlich konzentriert sich WINTERMUTE auch auf die Benutzerfreundlichkeit, um es Unternehmen zu ermöglichen, deren hochgradig vernetzte Systeme zu verstehen und somit für Risikoanalyse und -management zugänglich zu machen. Qualifiziertes Fachpersonal, das in diesem Bereich oftmals rar oder nicht verfügbar ist, soll dabei aber nicht ersetzt werden. Stattdessen ist es das Ziel von WINTERMUTE diese Fachkräfte hinsichtlich ihrer Entscheidungen bestmöglich zu unterstützen.
 
 
+
+<img alt="Gefördert vom BMBF" src="/assets/img/bmbf-gefoerdert-logo.svg" width="200" />
+
