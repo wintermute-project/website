@@ -1,3 +1,13 @@
+- authors: Katharina Dietz, Michael Seufert, Tobias Hoßfeld
+  title: "Comparing Traditional and GAN-based Approaches for the Synthesis of Wide Area Network Topologies"
+  conf: International Conference on Network and Service Management (CNSM)
+  year: 2022
+
+- authors: Katharina Dietz, Nicholas Gray, Michael Seufert, Tobias Hoßfeld
+  title: "ML-based Performance Prediction of SDN using Simulated Data from Real and Synthetic Networks"
+  conf: Network Operations and Management Symposium (NOMS)
+  year: 2022
+
 - authors: Nicholas Gray, Katharina Dietz, Michael Seufert, Tobias Hoßfeld
   title: "High Performance Network Metadata Extraction Using P4 for ML-Based Intrusion Detection Systems"
   conf: International Conference on High Performance Switching and Routing (HPSR)
