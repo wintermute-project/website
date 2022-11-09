@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Beitrag bei 7th IFIP/IEEE International Workshop on Analytics for Network and Service Management (AnNet), co-located with NOMS
+title:  Beitrag bei 7th International Workshop on Analytics for Network and Service Management (AnNet), co-located with NOMS
 date:   2022-05-01 00:00:00
 categories: projekt
 img-alt: Wintermute Logo
