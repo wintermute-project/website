@@ -3,6 +3,11 @@
   conf: International Conference on Network and Service Management (CNSM)
   year: 2022
 
+- authors: Tina Tremel, Jochen Kögel, Florian Jauernig, Sebastian Meier, Dennis Thom, Franziska Becker, Christoph Müller, Steffen Koch
+  title: "VITALflow: Visual Interactive Traffic Analysis with NetFlow"
+  conf: International Workshop on Analytics for Network and Service Management (AnNet), co-located with Network Operations and Management Symposium (NOMS)
+  year: 2022
+
 - authors: Katharina Dietz, Nicholas Gray, Michael Seufert, Tobias Hoßfeld
   title: "ML-based Performance Prediction of SDN using Simulated Data from Real and Synthetic Networks"
   conf: Network Operations and Management Symposium (NOMS)
