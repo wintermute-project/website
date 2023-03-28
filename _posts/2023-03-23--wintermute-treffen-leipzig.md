@@ -14,4 +14,4 @@ Abermals war es eine äußerst produktive Runde, die den Partnern nun zum zweite
 Im Fokus stand der Austausch vor allem der Rückblick auf die wissenschaftlichen und technischen Erkenntnisse des Projekts, und die noch zu erledigendenden Vorhaben in den letzten Wochen von WINTERMUTE.
 Dazu wurde nochmal in gemeinsamer Runde Feedback von allen Partnern eingeholt, um das im Juni anstehenden Projektende abzurunden.
 
-![treffenleipzig](/assets/img/gruppenfoto_leipzig.JPG)
+![WINTERMUTE Treffen Leipzig](/assets/img/gruppenfoto_leipzig.jpg)

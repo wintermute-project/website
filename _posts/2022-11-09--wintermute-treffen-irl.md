@@ -13,4 +13,4 @@ Es war eine äußerst produktive Runde, die den Partnern aufgrund der Corona-Pan
 Im Fokus stand der Austausch zwischen den Partnern, sowie Rückblick auf bisherige Arbeiten und Planung des im Frühjahr anstehenden Projektabschlusses. 
 Dazu wurde über momentan laufende und abzuschließende Forschungsarbeiten und Entwicklung der Demonstratoren der einzelnen Partner ausführlich miteinander diskutiert.
 
-![treffenwue](/assets/img/gruppenfoto.JPG)
+![WINTERMUTE Treffen Würzburg](/assets/img/gruppenfoto.JPG)
