@@ -13,4 +13,4 @@ Am 20. Juni 2023 haben sich alle Projektpartner zum letzen Mal zu einem zum WINT
 Abermals war es eine äußerst produktive Runde, die den Partnern nun zum dritten Mal ermöglichte, auch in Person miteinander zu diskutieren und das Projekt erfolgreich abzuschließen.
 Im Fokus stand vor allem der Rückblick auf die wissenschaftlichen und technischen Erkenntnisse des Projekts. Da zu wurde nochmal Revue passieren lassen, wie das Konsortium den Start trotz Pandemie erfolgreich gemeistert hat und wie sich das Projekt allgemein entwickelt hat, und was dabei besonders gut gelaufen ist, aber auch wo es eventuelle Stolpersteine gab.
 
-![WINTERMUTE Treffen Leipzig](/assets/img/gruppenfoto_kirchheim.jpg)
+![WINTERMUTE Treffen Kirchheim](/assets/img/gruppenfoto_kirchheim.jpg)
