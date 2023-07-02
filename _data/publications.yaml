@@ -1,3 +1,13 @@
+- authors: Katharina Dietz, Nicholas Gray, Manuel Wolz, Claas Lorenz, Tobias Hoßfeld, Michael Seufert
+  title: "Moving Down the Stack: Performance Evaluation of Packet Processing Technologies for Stateful Firewalls"
+  conf: Network Operations and Management Symposium (NOMS)
+  year: 2023
+
+- authors: Daria Soroko, Gian-Luca Savino, Nicholas Gray
+  title: "How Can AI Earn Trust of System Administrators in the IT-Security Domain?"
+  conf: https://www.alexandria.unisg.ch/server/api/core/bitstreams/f4a86e87-7939-438a-a4d0-172efc298793/content
+  year: 2022
+
 - authors: Katharina Dietz, Michael Seufert, Tobias Hoßfeld
   title: "Comparing Traditional and GAN-based Approaches for the Synthesis of Wide Area Network Topologies"
   conf: International Conference on Network and Service Management (CNSM)
